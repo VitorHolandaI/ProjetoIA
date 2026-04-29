@@ -1,0 +1,9 @@
+[project]
+name = "minotaur-labyrinth-ga"
+version = "0.1.0"
+description = "Genetic algorithm simulation with humans, landmarks, and Minotaurs in a labyrinth."
+requires-python = ">=3.12"
+dependencies = [
+    "pygame>=2.6.1",
+]
+
